@@ -2,7 +2,8 @@
 
 ## Lecture VDO Playlist
 
-- [Sec ](#)
+- [Sec 003/803](#)
+- [Sec 006/806](#)
 
 ## Introduction
 
