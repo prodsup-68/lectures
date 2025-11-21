@@ -2,8 +2,8 @@
 
 ## Lecture VDO Playlist
 
-- [Sec 003/803](#)
-- [Sec 006/806](#)
+- [Sec 003/803](https://www.youtube.com/playlist?list=PLNGLpHQhvGruW2Y2Z-dljJH-ntPynGsVL)
+- [Sec 006/806](https://www.youtube.com/playlist?list=PLNGLpHQhvGrvIRGM8W4VlgL2oSMT8rf1n)
 
 ## Introduction
 
