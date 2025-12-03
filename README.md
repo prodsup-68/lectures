@@ -33,6 +33,11 @@
 | MQTT         | [HTML](/src/T04_mqtt/T04.html)      | [PDF](/src/T04_mqtt/T04.pdf)      |
 | Dashboard    | [HTML](/src/T05_dashboard/T05.html) | [PDF](/src/T05_dashboard/T05.pdf) |
 
+## Integration Basics
+
+- [HTML](/src/T20_integration/T20.html)
+- [PDF](/src/T20_integration/T20.pdf)
+
 ## Project
 
 - [HTML](/src/T99_project/T99.html)
