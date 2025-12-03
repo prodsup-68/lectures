@@ -6,18 +6,18 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T03_node_red"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T03_node_red"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "src\T04_mqtt"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T04_mqtt"
+# npm run html $folder
+# npm run pdf $folder
 
 $folder = "src\T05_dashboard"
 npm run html $folder
 npm run pdf $folder
 
-$folder = "src\T99_project"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T99_project"
+# npm run html $folder
+# npm run pdf $folder
