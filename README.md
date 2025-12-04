@@ -32,6 +32,7 @@
 | Introduction | [HTML](/src/T03_node_red/T03.html)  | [PDF](/src/T03_node_red/T03.pdf)  |
 | MQTT         | [HTML](/src/T04_mqtt/T04.html)      | [PDF](/src/T04_mqtt/T04.pdf)      |
 | Dashboard    | [HTML](/src/T05_dashboard/T05.html) | [PDF](/src/T05_dashboard/T05.pdf) |
+| Telegram     | [HTML](/src/T06_telegram/T06.html)  | [PDF](/src/T06_telegram/T06.pdf)  |
 
 ## Integration Basics
 

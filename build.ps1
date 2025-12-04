@@ -14,11 +14,15 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T05_dashboard"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T05_dashboard"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "src\T20_integration"
+# $folder = "src\T20_integration"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T06_telegram"
 npm run html $folder
 npm run pdf $folder
 
