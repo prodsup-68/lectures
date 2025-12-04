@@ -18,10 +18,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T20_integration"
-npm run html $folder
-npm run pdf $folder
-
-# $folder = "src\T99_project"
+# $folder = "src\T20_integration"
 # npm run html $folder
 # npm run pdf $folder
+
+$folder = "src\T99_project"
+npm run html $folder
+npm run pdf $folder
