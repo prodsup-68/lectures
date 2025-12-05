@@ -22,7 +22,11 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T06_telegram"
+# $folder = "src\T06_telegram"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T07_database"
 npm run html $folder
 npm run pdf $folder
 
