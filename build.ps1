@@ -30,9 +30,9 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T21_context"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T21_context"
+# npm run html $folder
+# npm run pdf $folder
 
 # $folder = "src\T22_context_adv_1"
 # npm run html $folder
@@ -41,6 +41,10 @@ npm run pdf $folder
 # $folder = "src\T23_context_adv_2"
 # npm run html $folder
 # npm run pdf $folder
+
+$folder = "src\T24_context_adv_3"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "src\T99_project"
 # npm run html $folder
