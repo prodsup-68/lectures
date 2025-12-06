@@ -18,19 +18,27 @@
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "src\T20_integration"
-# npm run html $folder
-# npm run pdf $folder
-
 # $folder = "src\T06_telegram"
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "src\T07_database"
+$folder = "src\T07_database"
+npm run html $folder
+npm run pdf $folder
+
+# $folder = "src\T20_integration"
 # npm run html $folder
 # npm run pdf $folder
 
 $folder = "src\T21_context"
+npm run html $folder
+npm run pdf $folder
+
+$folder = "src\T22_context_adv_1"
+npm run html $folder
+npm run pdf $folder
+
+$folder = "src\T23_context_adv_2"
 npm run html $folder
 npm run pdf $folder
 
