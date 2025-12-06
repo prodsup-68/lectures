@@ -26,7 +26,11 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T07_database"
+# $folder = "src\T07_database"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T21_context"
 npm run html $folder
 npm run pdf $folder
 
