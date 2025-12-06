@@ -42,7 +42,11 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T24_context_adv_3"
+# $folder = "src\T24_context_adv_3"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T30_integration_adv"
 npm run html $folder
 npm run pdf $folder
 

@@ -39,10 +39,12 @@
 | Context (Advanced 2 - ON/OFF)    | [HTML](/src/T23_context_adv_2/T23.html) | [PDF](/src/T23_context_adv_2/T23.pdf) |
 | Context (Advanced 3 - Selection) | [HTML](/src/T24_context_adv_3/T24.html) | [PDF](/src/T24_context_adv_3/T24.pdf) |
 
-## Integration Basics
+## Integration
 
-- [HTML](/src/T20_integration/T20.html)
-- [PDF](/src/T20_integration/T20.pdf)
+| Topic    | Links                                     |                                         |
+| -------- | ----------------------------------------- | --------------------------------------- |
+| Basics   | [HTML](/src/T20_integration/T20.html)     | [PDF](/src/T20_integration/T20.pdf)     |
+| Advanced | [HTML](/src/T30_integration_adv/T30.html) | [PDF](/src/T30_integration_adv/T30.pdf) |
 
 ## Project
 
