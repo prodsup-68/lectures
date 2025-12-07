@@ -38,6 +38,7 @@
 | Context (Advanced 1 - Counter)   | [HTML](/src/T22_context_adv_1/T22.html) | [PDF](/src/T22_context_adv_1/T22.pdf) |
 | Context (Advanced 2 - ON/OFF)    | [HTML](/src/T23_context_adv_2/T23.html) | [PDF](/src/T23_context_adv_2/T23.pdf) |
 | Context (Advanced 3 - Selection) | [HTML](/src/T24_context_adv_3/T24.html) | [PDF](/src/T24_context_adv_3/T24.pdf) |
+| Self-Hosting                     | [HTML](/src/T31_self_hosting/T31.html)  | [PDF](/src/T31_self_hosting/T31.pdf)  |
 
 ## Integration
 
