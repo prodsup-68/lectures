@@ -34,6 +34,8 @@
 | Dashboard                        | [HTML](/src/T05_dashboard/T05.html)     | [PDF](/src/T05_dashboard/T05.pdf)     |
 | Telegram                         | [HTML](/src/T06_telegram/T06.html)      | [PDF](/src/T06_telegram/T06.pdf)      |
 | Cloud Database                   | [HTML](/src/T07_database/T07.html)      | [PDF](/src/T07_database/T07.pdf)      |
+| Mock Sensor                      | [HTML](/src/T08_sensor_mock/T08.html)   | [PDF](/src/T08_sensor_mock/T08.pdf)   |
+| Useful Nodes                     | [HTML](/src/T10_useful_nodes/T10.html)  | [PDF](/src/T10_useful_nodes/T10.pdf)  |
 | Context (Basics)                 | [HTML](/src/T21_context/T21.html)       | [PDF](/src/T21_context/T21.pdf)       |
 | Context (Advanced 1 - Counter)   | [HTML](/src/T22_context_adv_1/T22.html) | [PDF](/src/T22_context_adv_1/T22.pdf) |
 | Context (Advanced 2 - ON/OFF)    | [HTML](/src/T23_context_adv_2/T23.html) | [PDF](/src/T23_context_adv_2/T23.pdf) |
