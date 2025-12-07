@@ -46,7 +46,11 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T30_integration_adv"
+# $folder = "src\T30_integration_adv"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T31_self_hosting"
 npm run html $folder
 npm run pdf $folder
 
