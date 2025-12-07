@@ -26,17 +26,17 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T08_sensor_mock"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T08_sensor_mock"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "src\T09_sensor_real"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T09_sensor_real"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "src\T10_useful_nodes"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T10_useful_nodes"
+# npm run html $folder
+# npm run pdf $folder
 
 # $folder = "src\T20_integration"
 # npm run html $folder
@@ -70,6 +70,6 @@ npm run pdf $folder
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "src\T99_project"
-# npm run html $folder
-# npm run pdf $folder
+$folder = "src\T99_project"
+npm run html $folder
+npm run pdf $folder
