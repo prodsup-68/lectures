@@ -70,6 +70,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T99_project"
+$folder = "src\T33_image_classification"
 npm run html $folder
 npm run pdf $folder
+
+# $folder = "src\T99_project"
+# npm run html $folder
+# npm run pdf $folder

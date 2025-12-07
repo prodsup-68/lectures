@@ -50,13 +50,13 @@
 
 ## Node-RED: Advanced
 
-| Topic                  | Links                                     |                                         |
-| ---------------------- | ----------------------------------------- | --------------------------------------- |
-| Integration - Advanced | [HTML](/src/T30_integration_adv/T30.html) | [PDF](/src/T30_integration_adv/T30.pdf) |
-| Self-Hosting           | [HTML](/src/T31_self_hosting/T31.html)    | [PDF](/src/T31_self_hosting/T31.pdf)    |
-| Local Tunnel           | [HTML](/src/T32_local_tunnel/T32.html)    | [PDF](/src/T32_local_tunnel/T32.pdf)    |
-| Image Classification   | _Coming Soon_                             | _Coming Soon_                           |
-| Object Detection       | _Coming Soon_                             | _Coming Soon_                           |
+| Topic                  | Links                                          |                                              |
+| ---------------------- | ---------------------------------------------- | -------------------------------------------- |
+| Integration - Advanced | [HTML](/src/T30_integration_adv/T30.html)      | [PDF](/src/T30_integration_adv/T30.pdf)      |
+| Self-Hosting           | [HTML](/src/T31_self_hosting/T31.html)         | [PDF](/src/T31_self_hosting/T31.pdf)         |
+| Local Tunnel           | [HTML](/src/T32_local_tunnel/T32.html)         | [PDF](/src/T32_local_tunnel/T32.pdf)         |
+| Image Classification   | [HTML](/src/T33_image_classification/T33.html) | [PDF](/src/T33_image_classification/T33.pdf) |
+| Object Detection       | _Coming Soon_                                  | _Coming Soon_                                |
 
 ## Project
 
