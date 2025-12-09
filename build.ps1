@@ -30,9 +30,9 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T09_sensor_real"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T09_sensor_real"
+# npm run html $folder
+# npm run pdf $folder
 
 # $folder = "src\T10_useful_nodes"
 # npm run html $folder
@@ -62,9 +62,9 @@ npm run pdf $folder
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "src\T31_self_hosting"
-# npm run html $folder
-# npm run pdf $folder
+$folder = "src\T31_self_hosting"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "src\T32_local_tunnel"
 # npm run html $folder
