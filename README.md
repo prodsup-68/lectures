@@ -34,7 +34,7 @@
 | Dashboard        | [HTML](/src/T05_dashboard/T05.html)   | [PDF](/src/T05_dashboard/T05.pdf)   |
 | Telegram         | [HTML](/src/T06_telegram/T06.html)    | [PDF](/src/T06_telegram/T06.pdf)    |
 | Mock Sensor      | [HTML](/src/T08_sensor_mock/T08.html) | [PDF](/src/T08_sensor_mock/T08.pdf) |
-| IoT Sensor       | _Coming Soon_                         | _Coming Soon_                       |
+| IoT Sensor       | [HTML](/src/T09_sensor_real/T09.html) | [PDF](/src/T09_sensor_real/T09.pdf) |
 | Context (Basics) | [HTML](/src/T21_context/T21.html)     | [PDF](/src/T21_context/T21.pdf)     |
 
 ## Node-RED: Intermediate
