@@ -62,13 +62,13 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T31_self_hosting"
-npm run html $folder
-npm run pdf $folder
-
-# $folder = "src\T32_local_tunnel"
+# $folder = "src\T31_self_hosting"
 # npm run html $folder
 # npm run pdf $folder
+
+$folder = "src\T32_local_tunnel"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "src\T33_image_classification"
 # npm run html $folder
