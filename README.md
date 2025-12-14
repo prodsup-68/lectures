@@ -56,7 +56,7 @@
 | Self-Hosting           | [HTML](/src/T31_self_hosting/T31.html)         | [PDF](/src/T31_self_hosting/T31.pdf)         |
 | Local Tunnel           | [HTML](/src/T32_local_tunnel/T32.html)         | [PDF](/src/T32_local_tunnel/T32.pdf)         |
 | Image Classification   | [HTML](/src/T33_image_classification/T33.html) | [PDF](/src/T33_image_classification/T33.pdf) |
-| Object Detection       | _Coming Soon_                                  | _Coming Soon_                                |
+| Object Detection       | [HTML](/src/T34_object_detection/T34.html)     | [PDF](/src/T34_object_detection/T34.pdf)     |
 
 ## Project
 

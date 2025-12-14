@@ -66,13 +66,17 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T32_local_tunnel"
-npm run html $folder
-npm run pdf $folder
+# $folder = "src\T32_local_tunnel"
+# npm run html $folder
+# npm run pdf $folder
 
 # $folder = "src\T33_image_classification"
 # npm run html $folder
 # npm run pdf $folder
+
+$folder = "src\T34_object_detection"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "src\T99_project"
 # npm run html $folder
