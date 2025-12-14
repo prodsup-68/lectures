@@ -94,7 +94,7 @@
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="8" data-class="invert" data-paginate="true" data-footer="255411: Information Technologies for Industrial Engineers" data-theme="default" lang="en-US" class="invert" data-marpit-pagination="8" style="--class:invert;--paginate:true;--footer:255411: Information Technologies for Industrial Engineers;--theme:default;" data-marpit-pagination-total="23">
 <h1 id="prepare-mock-images">Prepare Mock Images</h1>
 <ul>
-<li>Copy image from <code>ml-express/temp/img</code> to your node-red installation directory under <code>img</code> folder.</li>
+<li>Copy image from <code>obj-detection-express-main/temp/img</code> to your node-red installation directory under <code>img</code> folder.</li>
 </ul>
 <footer>255411: Information Technologies for Industrial Engineers</footer>
 </section>
@@ -210,20 +210,18 @@ msg.<span class="hljs-property">payload</span> = countsArr.<span class="hljs-tit
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22" data-class="invert" data-paginate="true" data-footer="255411: Information Technologies for Industrial Engineers" data-theme="default" lang="en-US" class="invert" data-marpit-pagination="22" style="--class:invert;--paginate:true;--footer:255411: Information Technologies for Industrial Engineers;--theme:default;" data-marpit-pagination-total="23">
 <h1 id="format-select-class-data-function-node"><code>Format Select-Class Data</code> Function Node</h1>
-<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js"><span class="hljs-keyword">const</span> countsArr = msg.<span class="hljs-property">payload</span>?.<span class="hljs-property">countsArr</span>;
-<span class="hljs-keyword">if</span> (!<span class="hljs-title class_">Array</span>.<span class="hljs-title function_">isArray</span>(countsArr)) {
-  msg.<span class="hljs-property">payload</span> = [];
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js"><span class="hljs-comment">// Select class here</span>
+<span class="hljs-keyword">const</span> selectClass = <span class="hljs-string">&quot;person&quot;</span>;
+
+<span class="hljs-comment">// Check</span>
+<span class="hljs-keyword">const</span> countsObj = msg.<span class="hljs-property">payload</span>?.<span class="hljs-property">countsObj</span>;
+<span class="hljs-keyword">if</span> (<span class="hljs-keyword">typeof</span> countsObj !== <span class="hljs-string">&quot;object&quot;</span> || countsObj === <span class="hljs-literal">null</span>) {
+  msg.<span class="hljs-property">payload</span> = <span class="hljs-number">0</span>;
   <span class="hljs-keyword">return</span> msg;
 }
 
-<span class="hljs-keyword">const</span> dt = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
-<span class="hljs-keyword">const</span> datestring = dt.<span class="hljs-title function_">toLocaleDateString</span>();
-<span class="hljs-keyword">const</span> timestring = dt.<span class="hljs-title function_">toLocaleTimeString</span>();
-msg.<span class="hljs-property">payload</span> = countsArr.<span class="hljs-title function_">map</span>(<span class="hljs-function">(<span class="hljs-params">d</span>) =&gt;</span> ({
-  <span class="hljs-title class_">Class</span>: d[<span class="hljs-string">&quot;class&quot;</span>],
-  <span class="hljs-title class_">Count</span>: d[<span class="hljs-string">&quot;count&quot;</span>],
-  <span class="hljs-title class_">Time</span>: <span class="hljs-string">`<img class="emoji" draggable="false" alt="📆" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f4c6.svg" data-marp-twemoji=""/><span class="hljs-subst">${datestring}</span> <img class="emoji" draggable="false" alt="⏰" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/23f0.svg" data-marp-twemoji=""/><span class="hljs-subst">${timestring}</span>`</span>,
-}));
+<span class="hljs-comment">// Code</span>
+msg.<span class="hljs-property">payload</span> = countsObj?.[selectClass] ?? <span class="hljs-number">0</span>;
 <span class="hljs-keyword">return</span> msg;
 </code></pre>
 <footer>255411: Information Technologies for Industrial Engineers</footer>
