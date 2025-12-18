@@ -1,9 +1,10 @@
 # Lectures Topics
 
-## Lecture VDO Playlist
+## VDO Playlists
 
 - [Sec 003/803](https://www.youtube.com/playlist?list=PLNGLpHQhvGruW2Y2Z-dljJH-ntPynGsVL)
 - [Sec 006/806](https://www.youtube.com/playlist?list=PLNGLpHQhvGrvIRGM8W4VlgL2oSMT8rf1n)
+- [Project](https://youtube.com/playlist?list=PLNGLpHQhvGrtqn6UYxUYXm7C0auAYrh_O&si=8qAaHvdWK2L_lYxZ)
 
 ## Resources
 
