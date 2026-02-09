@@ -6,6 +6,8 @@
 - [Sec 004/804](https://www.youtube.com/playlist?list=PLNGLpHQhvGrvdj1Me0KcaCvjpLRWohLGL)
 - [Sec 003/803](https://www.youtube.com/playlist?list=PLNGLpHQhvGruW2Y2Z-dljJH-ntPynGsVL)
 - [Sec 006/806](https://www.youtube.com/playlist?list=PLNGLpHQhvGrvIRGM8W4VlgL2oSMT8rf1n)
+- [Sec 002/802](https://www.youtube.com/playlist?list=PLNGLpHQhvGrvxydnp02dFQszXo6CcYne8)
+- [Sec 005/805](https://www.youtube.com/playlist?list=PLNGLpHQhvGruU-Za32-H17FZC1ULZN0Rs)
 - [Project](https://youtube.com/playlist?list=PLNGLpHQhvGrtqn6UYxUYXm7C0auAYrh_O&si=8qAaHvdWK2L_lYxZ)
 
 ## Resources
